@@ -2,7 +2,7 @@
 A high-performance, modern typing speed trainer and weakness analyzer built with React. Keyora features a sleek glassmorphism UI, real-time WPM calculation, dynamic error mapping, customizable modes, and an automated auto-scroll viewport for seamless typing sessions.
 
 🚀 Live Demo
-Check out the live app here: keyora.demo
+[Check out the live app here](https://keyora-one.vercel.app/)
 
 ✨ Key Features
 🎯 Precision Error Tracking: Automatically logs every incorrect key pressed and provides a detailed post-test "Weakness Analysis" report.
