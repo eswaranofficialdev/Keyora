@@ -35,7 +35,7 @@ To get a local copy up and running, follow these simple steps:
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/keyora.git
+git clone https://github.com/eswaranofficialdev/Keyora
 Navigate to the project directory:
 
 Bash
